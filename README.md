@@ -1,3 +1,5 @@
 # ImageSpeciesPrediction
-Using Machine Learning on cats and dogs dataset for classification of dogs and cats
+Using Machine Learning on cats and dogs dataset for classification of dogs and cat
+
+
 DataSet:https://www.kaggle.com/datasets/d4rklucif3r/cat-and-dogs
